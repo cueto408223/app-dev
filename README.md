@@ -2,7 +2,7 @@
 My first repository
 
 # My Favorite Series of All Time
-## THE SOPRANOS
+## The Sopranos
 
 <img src="https://osn-artwork.anghcdn.co/landscape_tt_SR1140/1140_LTT063331502.jpg" width="400" height="250">
 
